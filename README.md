@@ -58,3 +58,18 @@ The three screenshots document:
 This repository documents the configured pipeline and observed output files. It does not currently include a deployable pipeline export or run-history logs.
 
 The workflow performs file extraction and copying. It does not clean CSV records, transform their contents or demonstrate scheduled execution.
+
+
+## Project Screenshots
+
+### ZIP Source Configuration
+
+![ZIP Source Configuration](ZIP%20Source%20Configuration.png)
+
+### Copy Data Pipeline Configuration
+
+![Copy Data Pipeline Configuration](Copy%20Data%20Pipeline%20Configuration.png)
+
+### Extracted Files in Azure Blob Storage
+
+![Extracted Files in Azure Blob Storage](Extracted%20Files%20in%20Azure%20Blob%20Storage.png)
